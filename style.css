@@ -1,0 +1,122 @@
+body
+{
+background-color:#E2725B;
+}
+
+#header{
+
+font-family: 'Rubik Puddles', cursive;
+margin-top: 5px;
+font-size: 50px;
+color: #E1E6E1;
+}
+
+.emojies{
+  background-color:#69e462 ;
+  border-radius: 20px;
+  width: 350px;
+  height: 50px;
+  padding-bottom: 80px;
+  border:4mm ridge rgba(40, 205, 117, 0.242);
+  font-size:30px ;
+  
+}
+#maindiv{
+  background-color:#3F826D;
+  border-radius:20px ;
+  border: 4mm ridge rgba(186, 252, 4, 0.242);
+  height: 900px;
+  margin-left: 0px;
+  margin-right:0px ;
+  height: 600px;
+  text-align: center;
+  
+}
+
+#div1{
+  background-color:#f99202;
+  border-radius:20px ;
+  border: 4mm ridge rgba(252, 161, 4, 0.242);
+  font-family: 'Shadows Into Light', cursive;
+  color: #390419;
+  font-size: 50px;
+  letter-spacing: 2px;
+}
+
+#label{
+
+  font-family: 'Rubik Puddles', cursive;
+  font-size: 40px;
+  font-weight: bolder;
+  color:aliceblue;
+  height: 50px;
+  margin-top: 10px;
+  width:600px;
+  text-align: initial;
+}
+
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color:#e0c7d3;
+  font-size: 40px;
+  font-family: 'Shadows Into Light', cursive;
+
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+
+.result_div{
+  font-family: 'Rubik Puddles', cursive;
+  color: aliceblue;
+  font-size: large;
+  background-color: #740e3ac0;
+  border-radius: 20px;
+  padding: 20px;
+  margin-top: 20px;
+
+}
+
+#predict{
+
+  background-color: #651B40;
+  width: 150px;
+  height: 35px;
+  border-radius: 10px;
+  padding:5px ;
+}
+#predict1{
+
+  background-color: #651B40;
+  width: 150px;
+  height: 35px;
+  border-radius: 10px;
+  padding:5px ;
+
+}
+
+.emoji{
+
+font-size: 70px;
+}
+
+.emoji{
+
+  font-size: 70px;
+  }
+
+  .buttons{
+
+    border: 4mm ridge rgba(83, 22, 80, 0.242);
+    padding: 10px;
+    text-align: center;
+background-color: #651B40;
+  }
+
